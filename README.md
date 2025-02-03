@@ -4,15 +4,15 @@ This Jupyter Notebook provides a simple exploratory data analysis (EDA) of the B
 
 ## Algorithms Used:
 
-This notebook utilizes **seven machine learning models** to analyze the breast cancer dataset:
+This notebook utilizes **seven machine learning models** For binary classification of the breast cancer dataset:
 
-- **Logistic Regression**: For binary classification of cancer types.
-- **Decision Tree Classifier**: To analyze feature importance and make predictions.
-- **K-Nearest Neighbors (KNN)**: For classification based on feature similarity.
-- **Support Vector Machine (SVM)**: For optimal separation of malignant and benign tumors.
-- **Random Forest Classifier**: To improve prediction accuracy using an ensemble of decision trees.
-- **Naive Bayes Classifier**: Based on probabilistic classification using Bayes' theorem.
-- **Artificial Neural Network Classifier**: For boosting the performance of weak classifiers.
+- **Logistic Regression**
+- **Decision Tree Classifier** 
+- **K-Nearest Neighbors (KNN)**
+- **Support Vector Machine (SVM)**
+- **Random Forest Classifier**
+- **Naive Bayes Classifier**
+- **Artificial Neural Network Classifier**
 
 ## Prediction Type:
 
